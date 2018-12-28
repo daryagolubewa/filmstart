@@ -1,0 +1,25 @@
+dt {
+    display: none;
+}
+.weather-city-name {
+    padding: 0px 0px 0px 13px;
+}
+
+.weather-image {
+    display: inline-block;
+}
+
+.weather-link {
+    text-decoration: none;
+}
+
+.weather-pics {
+    max-width: 40px;
+    min-width: 40px;
+    margin: 0px 10px 10px 0px;
+}
+
+.weather-spinner {
+    max-width: 100px;
+    min-width: 100px;
+}
